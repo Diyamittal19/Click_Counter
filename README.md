@@ -1,0 +1,1 @@
+A simple web application built using **HTML, CSS, and JavaScript** that measures how many times a user can click within **10 seconds**. At the end of the timer, the application displays the total number of clicks and the average clicks per second (CPS).
