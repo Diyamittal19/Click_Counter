@@ -37,7 +37,13 @@ div{
     background-color: rgb(115, 0, 255);
     color: #ffffff;
     font-size: 20px;
-
+}
+#restart{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(115, 0, 255);
+    color: #ffffff;
+    font-size: 20px;
 }
 .hidden{
     display: none;
