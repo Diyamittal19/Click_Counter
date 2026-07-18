@@ -20,6 +20,6 @@ A simple web application built using **HTML, CSS, and JavaScript** that measures
 4. After the timer ends, your results will be displayed:
    - Total Clicks
    - Average Clicks Per Second (CPS)
-5. Press **Restart** to try again.
+5. Press **Refresh** to try again.
 
 
