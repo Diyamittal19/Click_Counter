@@ -1,0 +1,44 @@
+body{
+    background: #2b0909;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    color: rgb(200, 0, 166);
+    text-align : center;
+    font-size: 100px;
+}
+div{
+    font-size: 30px;
+    color: azure;
+    width: 500px;
+    height: 300px;
+    border: #fc0707;
+    border-radius: 5px;
+    padding: 20 px;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#counter{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(115, 0, 255);
+    color: #ffffff;
+    font-size: 30px;
+}
+#starter{
+    height: 40px;
+    width: 70px;
+    background-color: rgb(115, 0, 255);
+    color: #ffffff;
+    font-size: 20px;
+
+}
+.hidden{
+    display: none;
+}
